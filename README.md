@@ -16,6 +16,3 @@ Im a 17yr/o developer who loves anything concurrent or high performance! I mostl
 - **Email**: `hburt2003@gmail.com`
 - **Discord**: `ハーリさん (CF8)#6621`
 - **GitHub**: *Suprise!* You're already here.
-
-
-[![ChillFish8's github stats](https://github-readme-stats.vercel.app/api?username=chillfish8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
