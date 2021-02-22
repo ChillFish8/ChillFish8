@@ -11,6 +11,7 @@ Im a 17yr/o developer who loves anything concurrent or high performance! I mostl
 ### 🌠 Future Projects
 - **Euros** - A websocket server helper for making clean and efficent websocket handlers; no more annoying loops.
 - **Cruncher** - A Browser extension for live tracking your anime.
+- **Halon** - A MESH based streaming system built off of WebRTC.
 
 ### 📧 Contact Me
 - **Email**: `hburt2003@gmail.com`
