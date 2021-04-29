@@ -15,5 +15,5 @@ Im a 17yr/o developer who loves anything concurrent or high performance! I mostl
 
 ### 📧 Contact Me
 - **Email**: `hburt2003@gmail.com`
-- **Discord**: `ハーリさん (CF8)#6621`
+- **Discord**: `ChillFish8#6621`
 - **GitHub**: *Suprise!* You're already here.
