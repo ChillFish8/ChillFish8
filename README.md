@@ -1,5 +1,5 @@
 ### 👋 Hi there, Im CF8 (Harri).
-Im a 17yr/o developer who loves anything concurrent or high performance! I mostly program in Python or Rust but have experience with Node.js, Clojure and Go Lang.
+Im a developer who loves anything concurrent or high performance! I mostly program in Python or Rust but have experience with Node.js, Clojure and Go Lang.
 
 ### 🚀 Projects
 
