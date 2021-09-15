@@ -3,7 +3,7 @@ Im a developer who loves anything concurrent or high performance! I mostly progr
 
 ### 🚀 Projects
 
-- **[Lust](https://github.com/ChillFish8/lust):** A fast, auto-optimizing image server designed for high throughput and caching.
+- **[Lust](https://github.com/lnx-search/lust):** A fast, auto-optimizing image server designed for high throughput and caching.
 - **[Lnx](https://github.com/ChillFish8/lnx):** A REST based implementation of the tantivy search engine system **_WIP_**.
 - **[Pyre-HTTP](https://github.com/Project-Dream-Weaver/litmus):** A blazingly fast Python HTTP server inspired by japronto written in Rust.
 - **[ReWrk](https://github.com/ChillFish8/ReWrk):** A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks..
