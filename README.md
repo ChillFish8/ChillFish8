@@ -8,11 +8,6 @@ Im a developer who loves anything concurrent or high performance! I mostly progr
 - **[Roid](https://github.com/ChillFish8/roid):** A fast, stateless http slash commands framework for scale.
 - **[ReWrk](https://github.com/ChillFish8/ReWrk):** A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks..
 
-### 🌠 Future Projects
-- **Euros** - A websocket server helper for making clean and efficent websocket handlers; no more annoying loops.
-- **Cruncher** - A Browser extension for live tracking your anime.
-- **Halon** - A MESH based streaming system built off of WebRTC.
-
 ### 📧 Contact Me
 - **Email**: `hburt2003@gmail.com`
 - **Discord**: `ChillFish8#6621`
