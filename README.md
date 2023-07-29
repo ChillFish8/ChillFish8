@@ -9,6 +9,6 @@ Im a developer who loves anything concurrent or high performance! I mostly progr
 - **[Lust](https://github.com/ChillFish8/lust):** A fast, auto-optimizing image server designed for high throughput and caching.
 
 ### 📧 Contact Me
-- **Email**: `hburt2003@gmail.com`
+- **Email**: `harrison.burt@cf8.gg`
 - **Discord**: `ChillFish8#6621`
 - **GitHub**: *Suprise!* You're already here.
