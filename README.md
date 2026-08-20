@@ -11,5 +11,4 @@ I'm a developer who loves anything concurrent or high-performance! I mostly prog
 
 ### 📧 Contact Me
 - **Email**: `harrison.burt@cf8.gg`
-- **Discord**: `ChillFish8#6621`
-- **GitHub**: *Suprise!* You're already here.
+- **GitHub**: *Surprise!* You're already here.
